@@ -1,4 +1,4 @@
-# ImageRecognition-Source-Code
+#XRay-ImageRecognition-Source-Code
 
 Source code used to train X-Ray image recognition model.
 
